@@ -1,3 +1,5 @@
+package com.myschool.com;
+
 public class Student extends User {
     private String matricula;
     private String filiacao;

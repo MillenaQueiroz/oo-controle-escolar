@@ -1,3 +1,5 @@
+package com.myschool.com;
+
 import java.util.Date;
 
 public class User {
