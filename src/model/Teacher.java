@@ -1,4 +1,4 @@
-package com.myschool.com;
+package model;
 
 public class Teacher extends User {
     private String formacao;

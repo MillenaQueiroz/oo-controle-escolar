@@ -1,4 +1,4 @@
-package com.myschool.com;
+package model;
 
 import java.util.Date;
 
