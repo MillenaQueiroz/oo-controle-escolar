@@ -6,7 +6,6 @@ import java.sql.PreparedStatement;
 import java.util.Date;
 
 public class StudentDAO {
-    private Connection connection;
     private int id;
     private String cpf;
     private String nome;
